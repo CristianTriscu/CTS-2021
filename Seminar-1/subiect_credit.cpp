@@ -22,6 +22,7 @@ public:
 			cout << "nume invalid" << endl;
 		else
 		{
+// 6. Alocare numar finit de caractere (30), alocari de valori random pentru atribute 
 			this->numeClient = new char[30];
 			strcpy(this->numeClient, numeX);
 		}
