@@ -1,0 +1,16 @@
+Thu Mar 18 13:49:12 EET 2021 Main ended
+Thu Mar 18 13:50:24 EET 2021 Main ended
+Thu Mar 18 14:00:36 EET 2021 GUI opened!
+Thu Mar 18 14:00:41 EET 2021 GUI opened!
+Thu Mar 18 14:05:31 EET 2021 GUI opened!
+Thu Mar 18 14:16:38 EET 2021 Enum!
+Thu Mar 18 14:17:29 EET 2021 Enum!
+Thu Mar 18 15:27:13 EET 2021 Main singleton
+Thu Mar 18 15:27:57 EET 2021 Main singleton
+Thu Mar 25 11:25:14 EET 2021 Main singleton
+Thu Mar 25 11:25:52 EET 2021 Main singleton
+Thu Mar 25 11:26:40 EET 2021 Main singleton
+Thu Mar 25 11:27:02 EET 2021 Main singleton
+Thu Mar 25 11:28:01 EET 2021 Main singleton
+Thu Mar 25 11:28:50 EET 2021 Main singleton
+Thu Mar 25 11:30:12 EET 2021 Main singleton

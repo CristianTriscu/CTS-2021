@@ -16,5 +16,6 @@ public class Main {
 		Orchestrator orchestrator = new Orchestrator(ioc.Resolve(Readable.class),ioc.Resolve(Writeable.class));
 		orchestrator.execute();
 	}
+	
 
 }
